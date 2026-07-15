@@ -1,0 +1,35 @@
+<package>
+	<id>rocks.fosstoaster.mcpechatfix</id>
+	<name>MCPE Chat Fix</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>6.999</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Fixes MCPE chat bug on iOS 5/6</shortDescription>
+	<descriptionlist>
+		<description>Fixes the annoying MCPE chat bug on iOS 5/6</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Fix in action</description>
+			<image>chatfix.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Discord server</name>
+			<url>https://discord.gg/uSKXRFcbbJ</url>
+			<iconclass>fa fa-users</iconclass>
+		</link>
+	</links>
+</package>
