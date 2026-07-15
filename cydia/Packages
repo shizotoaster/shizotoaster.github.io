@@ -1,14 +1,14 @@
 Package: rocks.fosstoaster.mcpechatfix
 Version: 0.0.1
 Section: Tweaks
-Maintainer: FOSStoaster <https://t.me/shizotoaster>
+Maintainer: FOSStoaster
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/rocks.fosstoaster.mcpechatfix_0.0.1_iphoneos-arm.deb
+Filename: debs/rocks.fosstoaster.mcpechatfix_0.0.1_iphoneos-arm.deb
 Size: 3500
 MD5sum: d5063582ef66cb97fdcc71c8b9c10cee
 Description: Fixes the annoying MCPE chat bug on iOS 5/6
 Name: MCPE Chat Fix
-Author: FOSStoaster <https://t.me/shizotoaster>
+Author: FOSStoaster
 Depiction: https://fosstoaster.rocks/cydia/depictions/?p=rocks.fosstoaster.mcpechatfix
 
