@@ -1,27 +1,32 @@
-Package: rocks.fosstoaster.mcpechatfix
-Version: 0.0.1
-Section: Tweaks
-Maintainer: FOSStoaster
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/rocks.fosstoaster.mcpechatfix_0.0.1_iphoneos-arm.deb
-Size: 3500
-MD5sum: d5063582ef66cb97fdcc71c8b9c10cee
-Description: Fixes the annoying MCPE chat bug on iOS 5/6
-Name: MCPE Chat Fix
-Author: FOSStoaster
-Depiction: https://fosstoaster.rocks/cydia/depictions/?p=rocks.fosstoaster.mcpechatfix
-
 Package: rocks.fosstoaster.epicfail
 Version: 1.0.0
-Section: Tweaks
-Maintainer: FOSStoaster
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: FOSStoaster
+Installed-Size: 40
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rocks.fosstoaster.epicfail_1.0.0_iphoneos-arm.deb
 Size: 2614
 MD5sum: c8f46e9fe54949c7441bb65b51b667cc
+SHA1: 6cedddbccb7e6593f50c7d931ff791c75bd73654
+SHA256: 9735604f25b25af7ab40054c4c772465749675556288a148a03db6f6c93ae5e8
+Section: Tweaks
 Description: Fixes Angry Birds Epic 1.4.0 not loading anymore
-Name: Epic Fail
 Author: FOSStoaster
-Depiction: https://fosstoaster.rocks/cydia/depictions/?p=rocks.fosstoaster.epicfail
+Name: Epic Fail
+
+Package: rocks.fosstoaster.mcpechatfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: FOSStoaster
+Installed-Size: 40
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rocks.fosstoaster.mcpechatfix_0.0.1_iphoneos-arm.deb
+Size: 3500
+MD5sum: d5063582ef66cb97fdcc71c8b9c10cee
+SHA1: ada6cb512e7c6cc25e2b3e133514aa2575122187
+SHA256: 6f6dc30420fd5b33cb9fef992227026383ad8cb742d0094c8db4347a83fe3ddb
+Section: Tweaks
+Description: Fixes the annoying MCPE chat bug on iOS 5/6
+Author: FOSStoaster
+Name: MCPE Chat Fix
+
