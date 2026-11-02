@@ -12,3 +12,16 @@ Name: MCPE Chat Fix
 Author: FOSStoaster
 Depiction: https://fosstoaster.rocks/cydia/depictions/?p=rocks.fosstoaster.mcpechatfix
 
+Package: rocks.fosstoaster.epicfail
+Version: 1.0.0
+Section: Tweaks
+Maintainer: FOSStoaster
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/rocks.fosstoaster.epicfail_1.0.0_iphoneos-arm.deb
+Size: 3500
+MD5sum: d5063582ef66cb97fdcc71c8b9c10cee
+Description: Fixes Angry Birds Epic 1.4.0 not loading anymore
+Name: Epic Fail
+Author: FOSStoaster
+Depiction: https://fosstoaster.rocks/cydia/depictions/?p=rocks.fosstoaster.epicfail

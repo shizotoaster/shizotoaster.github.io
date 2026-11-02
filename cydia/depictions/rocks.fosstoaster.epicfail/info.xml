@@ -1,0 +1,33 @@
+<package>
+	<id>rocks.fosstoaster.epicfail</id>
+	<name>Epic Fail</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Fixes Angry Birds Epic 1.4.0 not loading anymore</shortDescription>
+	<descriptionlist>
+		<description>Fixes Angry Birds Epic 1.4.0 not loading anymore</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Fix in action</description>
+			<image>140.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Discord server</name>
+			<url>https://discord.gg/uSKXRFcbbJ</url>
+			<iconclass>fa fa-users</iconclass>
+		</link>
+	</links>
+</package>
